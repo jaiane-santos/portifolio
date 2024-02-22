@@ -10,7 +10,7 @@ Download the repository to a local folder of your choice and run the command:
 
 git clone https://github.com/jaiane-santos/telaDeLogin.git
 
-#### hosting link github pages: https://jaiane-santos.github.io/telaDeLogin/
+#### hosting link github pages: https://jaiane-santos.github.io/portifolio/
 <h3>Contacts 📧<h3/>
   
   
